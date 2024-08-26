@@ -17,6 +17,10 @@ The dashboard uses a range of visual elements, including bar charts and graphs, 
 ### Gained and Lost Customer Tracking
 ![Customer Analysis](https://github.com/vishnucipher/Zomato-Dashboard-Analysis-PowerBI/blob/main/Projects_Screenshorts/WhatsApp%20Image%202024-08-26%20at%2022.03.08_fe13fe7d.jpg)
 
+### City-wise Sales and Ratings Analysis
+![City wise Sales and Ratings](https://github.com/vishnucipher/Zomato-Dashboard-Analysis-PowerBI/blob/main/Projects_Screenshorts/WhatsApp%20Image%202024-08-26%20at%2022.03.04_bea509ab.jpg)
+
+
 ## 🛠️ Installation
 1. Clone this repository.
 2. Open the Power BI file (`Zomato_Dashboard.pbix`) to explore the dashboard.
