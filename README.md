@@ -15,7 +15,7 @@ This repository contains the files and documentation for a comprehensive Zomato 
 The dashboard uses a range of visual elements, including bar charts and graphs, to effectively communicate insights and trends.
 
 ### Gained and Lost Customer Tracking
-![Customer Analysis](screenshots/customer-analysis.png)
+![Customer Analysis](https://github.com/vishnucipher/Zomato-Dashboard-Analysis-PowerBI/blob/main/Projects_Screenshorts/WhatsApp%20Image%202024-08-26%20at%2022.03.08_fe13fe7d.jpg)
 
 ## 🛠️ Installation
 1. Clone this repository.
