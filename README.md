@@ -23,7 +23,7 @@ The dashboard uses a range of visual elements, including bar charts and graphs, 
 
 ## 🛠️ Installation
 1. Clone this repository.
-2. Open the Power BI file (`Zomato_Dashboard.pbix`) to explore the dashboard.
+2. Open the Power BI file (`Zomato Dashboard.pbix`) to explore the dashboard.
 3. Connect to the Zomato dataset if required.
 
 ## 🚀 Usage
